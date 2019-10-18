@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\bin\Debug\netcoreapp3.0\PowersTableLab.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\bin\Debug\netcoreapp3.0\PowersTableLab.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\bin\Debug\netcoreapp3.0\PowersTableLab.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\bin\Debug\netcoreapp3.0\PowersTableLab.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\bin\Debug\netcoreapp3.0\PowersTableLab.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\bin\Debug\netcoreapp3.0\PowersTableLab.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\obj\Debug\netcoreapp3.0\PowersTableLab.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\obj\Debug\netcoreapp3.0\PowersTableLab.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\obj\Debug\netcoreapp3.0\PowersTableLab.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\obj\Debug\netcoreapp3.0\PowersTableLab.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\PowerTableLab\PowersTableLab\PowersTableLab\obj\Debug\netcoreapp3.0\PowersTableLab.pdb
